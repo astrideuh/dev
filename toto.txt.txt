@@ -1,0 +1,7 @@
+if (age<18)
+
+echo"vous etes mineur"
+
+
+else
+(age>19)
