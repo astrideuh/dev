@@ -1,0 +1,31 @@
+{
+  "Name": "Chez Luigi",
+  "Slogan": "Le slogan qui déchire ta maman",
+  "Pizzas": [
+    {
+      "Nom": "La cheese Lover",
+      "Image": "https://assets.afcdn.com/recipe/20200506/110673_w1024h768c1cx3120cy2080.webp",
+      "Prix": "12.90 euros",
+      "Ingredients": [
+        "Feta",
+        "Bleu",
+        "Mozzarella",
+        "Parmesan",
+        "Raclette",
+        "Camembert"
+      ]
+    },
+    {
+      "Nom": "La hawaïenne",
+      "Image": "https://assets.afcdn.com/recipe/20170328/63885_w1024h576c1cx1500cy1000.webp",
+      "Prix": "58.90 euros",
+      "Ingredients": ["Mozzarella", "Poulet", "Ananas", "Olives"]
+    },
+    {
+      "Nom": "La reine",
+      "Image": "https://img.cuisineaz.com/660x660/2016/04/28/i96018-pizza-reine.jpg",
+      "Prix": "19.90 euros",
+      "Ingredients": ["Mozzarella", "Jambon", "Olives", "Tomate"]
+    }
+  ]
+}
